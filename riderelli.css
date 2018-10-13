@@ -5,7 +5,7 @@
 
 }
 a { 
-  font-family: 'OldStyle', Arial; 
+  font-family: 'OldStyle', Georgia; 
   font-size: 16px;
   text-decoration: none;
   color: black;
@@ -53,7 +53,7 @@ body{
   margin-right:40%;
   /*left: 50%;*/
   transform: translateY(-50%);
-  font-family: 'OldStyle', Arial; 
+  font-family: 'OldStyle', Georgia; 
   font-size: 16px;
 
 }
